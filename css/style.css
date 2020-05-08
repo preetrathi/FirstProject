@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.blue-header{
+    background-color: #316dc3;
+}
+.white{
+    color: white;
+}
+.black{
+    color: black;
+}
+.btn-style{
+    background-color: #f5f5f5;
+    border: #427900;
+    color: #427900;
+    width: 100%;
+    height: 30px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.p-color{
+    color: #878788;
+}
+.marq-news{
+    background-color: royalblue;
+    color: white;
+    margin-top: 20px;
+}
+.blue{
+    color: royalblue;
+}
+.green{
+    color: #00ff00;
+}
+.font-blue{
+    color: #316DC3;
+}
+.greenbar{
+    font-weight: bolder;
+    color: green;
+    font-size: 30px;
+}
+.head-blue{
+    color: #316dc3;
+}
+.head-green{
+    color: #427900;
+}
+.bg-blue{
+    background-color: #2755E9;
+}
+.p-font-size{
+    font-size: 22px;
+}
+.footer-color{
+    color: #A5A5A6;
+}
+.footer-bg{
+    background-color: #25272E;
+}
